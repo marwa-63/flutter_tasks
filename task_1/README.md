@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Pump Diagram](output.png)
 
 This project is a starting point for a Flutter application.
 
