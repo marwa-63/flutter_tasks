@@ -14,7 +14,7 @@ class _SplashScreenState extends State<SplashScreen> {
   super.initState();
 
   // Wait 3 seconds and then navigate to HomePage
-  Future.delayed(Duration(seconds: 1), () {
+  Future.delayed(Duration(seconds: 2), () {
     Navigator.pushReplacement(
       context,
       MaterialPageRoute(builder: (context) => Languges()),

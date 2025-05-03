@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+ [Click to watch the video](Android Emulator - Pixel_3_5554 2025-05-04 00-14-08.mp4)
 
 This project is a starting point for a Flutter application.
 
