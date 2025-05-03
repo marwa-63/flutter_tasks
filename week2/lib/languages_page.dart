@@ -9,7 +9,7 @@ class Languges extends StatefulWidget {
 }
 
 class _LangugesState extends State<Languges> {
-  bool englishPressed =false , arabicPressed=false ;
+  bool englishPressed =false , arabicPressed=true ;
   @override
   Widget build(BuildContext context) {
     return Scaffold(

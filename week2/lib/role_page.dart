@@ -1,6 +1,5 @@
 
 import 'package:flutter/material.dart';
-import "package:flutter/services.dart";
 import 'package:week2/sign_up.dart';
 
 class RolePage extends StatefulWidget {
@@ -12,7 +11,7 @@ class RolePage extends StatefulWidget {
 
 class _RolePageState extends State<RolePage> {
 
-  bool designerPressed =false , clientPressed=false ;
+  bool designerPressed =false , clientPressed=true;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
